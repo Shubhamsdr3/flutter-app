@@ -1,4 +1,4 @@
-# githubtrends
+# popcorn
 
 A new Flutter application.
 
