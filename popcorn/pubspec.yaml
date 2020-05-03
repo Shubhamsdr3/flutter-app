@@ -1,4 +1,4 @@
-name: todosapp
+name: githubtrends
 description: A new Flutter application.
 
 # The following line prevents the package from being accidentally published to
@@ -24,11 +24,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  sqflite: any #in any version:
-  path_provider: any
-  intl: ^0.15.7 #reqired version equal or above.
   http: ^0.12.1
-
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
