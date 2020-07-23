@@ -1,1 +1,1 @@
-Contains sample created in flutter
+Contains sample apps created in flutter
